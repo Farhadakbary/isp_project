@@ -11,7 +11,7 @@ class ProvinceSelectionScreen extends StatelessWidget {
     'Kabul',
     'Herat',
     'Balkh',
-    'Nimroz',
+    'Nimruoz',
     'Ghazni',
     'Kandahar',
     'Farah',
